@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { withRouter } from 'react-router-dom';
 import {connect} from 'react-redux';
 import { DateRange} from 'react-date-range';
 import FusionCharts from 'fusioncharts';
@@ -196,4 +197,4 @@ class ProjectModule extends Component {
 		}
 	}
 
-	export default connect(mapStateToProps)(ProjectModule);
+	export default withRouter(connect(mapStateToProps)(ProjectModule));

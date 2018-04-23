@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import {connect} from 'react-redux';
-import { Route, Redirect } from 'react-router-dom';
+import { Route, Redirect, withRouter } from 'react-router-dom';
 
 import LoginModule from './LoginModule/LoginModule';
 import TimeLogModule from './TimeLogModule/TimeLogModule';
@@ -19,15 +19,15 @@ const ProtectedRoute = ({ component: Comp, loggedIn, path, ...rest }) => {
   );
 };
 
-class Routes extends Component{
+class RoutePage extends Component{
 
 	render(){
 		return (
 			<div>	
 			<Route exact path= '/'  component= {LoginModule} />
-			<Route exact path= '/Login'  component= {LoginModule} />
-			<Route exact path= '/TimeLog'  component= {TimeLogModule} />
-			<Route exact path= '/ProjectOverview'  component= {ProjectModule} />
+			<Route path= '/Login'  component= {LoginModule} />
+			<Route path= '/TimeLog'  component= {TimeLogModule} />
+			<Route path= '/Project'  component= {ProjectModule} />
 			{/*<ProtectedRoute path='/TimeLog' loggedIn={this.props.loggedIn} component={TimeLogModule} />
 			<ProtectedRoute path='/ProjectOverview' loggedIn={this.props.loggedIn} component={ProjectModule} />*/}
 			</div>
@@ -43,4 +43,4 @@ function mapStateToProps(state){
 		}
 	}
 
-export default connect(mapStateToProps)(Routes);
+export default withRouter(connect(mapStateToProps)(RoutePage));

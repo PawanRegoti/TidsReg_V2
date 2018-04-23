@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { withRouter } from 'react-router-dom';
 import {connect} from 'react-redux';
 
 class AddNewProject extends Component {
@@ -75,4 +76,4 @@ class AddNewProject extends Component {
 			}
 
 
-			export default connect(mapStateToProps, mapDispatchToProps)(AddNewProject);
+			export default withRouter(connect(mapStateToProps, mapDispatchToProps)(AddNewProject));

@@ -4,14 +4,14 @@ import {BrowserRouter} from 'react-router-dom';
 import { Provider } from 'react-redux';
 import './index.css';
 
-import Routes from './Routes';
+import RoutePage from './RoutePage';
 import registerServiceWorker from './registerServiceWorker';
 import Store from './Store/Store';
 
 ReactDOM.render(
 	<Provider store={Store}>
 	<BrowserRouter>
-	<Routes/>
+	<RoutePage/>
 	</BrowserRouter>
 	</Provider>
 , document.getElementById('root'));

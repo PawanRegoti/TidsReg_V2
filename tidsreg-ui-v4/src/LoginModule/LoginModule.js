@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Redirect } from 'react-router-dom';
+import { Redirect, withRouter } from 'react-router-dom';
 import {connect} from 'react-redux';
 
 import Header, { Footer } from '../Layout/Layout';
@@ -162,4 +162,4 @@ function mapDispatchToProps(dispatch){
         }
 
 
-        export default connect(mapStateToProps, mapDispatchToProps)(LoginModule);
+        export default withRouter(connect(mapStateToProps, mapDispatchToProps)(LoginModule));

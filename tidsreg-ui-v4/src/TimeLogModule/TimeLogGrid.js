@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Link } from 'react-router-dom';
+import { Link, withRouter } from 'react-router-dom';
 import {connect} from 'react-redux';
 import Grid from "react-json-grid";
 import moment from 'moment';
@@ -101,8 +101,8 @@ class TimeLogGrid extends Component {
             alert('Time Log saved successfully.');
           }
           else{
-          alert('Unable to connect to server');
-        }
+            alert('Unable to connect to server');
+          }
         })
         .catch(err => { alert('Unable to add time log.'+ err); }) 
       }
@@ -110,7 +110,7 @@ class TimeLogGrid extends Component {
 
       GoToProjectOverview(){
         console.log('Statistics');
-        
+        this.clickHandler;
       }
 
       render() {
@@ -142,7 +142,7 @@ class TimeLogGrid extends Component {
           <input type="submit" name="Route" value="Route" id="Route" className="button" /><br/>
           </li>
           <li>
-          <Link to='/ProjectOverview'><input type="submit" name="Statistics" value="Statistics / Invoices" id="Statistics" className="button" onClick={this.GoToProjectOverview}/></Link><br/>
+          <Link to='/Project'><input type="submit" name="Statistics" value="Statistics / Invoices" id="Statistics" className="button" onClick={this.GoToProjectOverview}/></Link><br/>
           </li>
           </ul>
           </td>
@@ -160,4 +160,4 @@ class TimeLogGrid extends Component {
       }
     }
 
-    export default connect(mapStateToProps)(TimeLogGrid);
+    export default withRouter(connect(mapStateToProps)(TimeLogGrid));
