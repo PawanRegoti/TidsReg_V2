@@ -1,0 +1,51 @@
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3Tests\obj\Debug\TidsRegV3Tests.csprojResolveAssemblyReference.cache
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3Tests\obj\Debug\TidsRegV3Tests.csproj.CoreCompileInputs.cache
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3Tests\bin\Debug\TidsRegV3Tests.dll.config
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3Tests\bin\Debug\TidsRegV3Tests.dll
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3Tests\bin\Debug\TidsRegV3Tests.pdb
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3Tests\bin\Debug\nunit.framework.dll
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3Tests\bin\Debug\nunit.mocks.dll
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3Tests\bin\Debug\TidsRegV3.dll
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3Tests\bin\Debug\System.Web.Http.dll
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3Tests\bin\Debug\TidsRegV3.pdb
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3Tests\bin\Debug\TidsRegV3.dll.config
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3Tests\bin\Debug\nunit.framework.xml
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3Tests\bin\Debug\System.Web.Http.xml
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3Tests\obj\Debug\TidsRegV3Tests.csproj.CopyComplete
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3Tests\obj\Debug\TidsRegV3Tests.dll
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3Tests\obj\Debug\TidsRegV3Tests.pdb
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3Tests\bin\Debug\NSubstitute.dll
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3Tests\bin\Debug\NSubstitute.xml
+D:\TidsReg\Server\TidsRegV3\TidsRegV3Tests\bin\Debug\TidsRegV3Tests.dll.config
+D:\TidsReg\Server\TidsRegV3\TidsRegV3Tests\bin\Debug\TidsRegV3Tests.dll
+D:\TidsReg\Server\TidsRegV3\TidsRegV3Tests\bin\Debug\TidsRegV3Tests.pdb
+D:\TidsReg\Server\TidsRegV3\TidsRegV3Tests\bin\Debug\NSubstitute.dll
+D:\TidsReg\Server\TidsRegV3\TidsRegV3Tests\bin\Debug\nunit.framework.dll
+D:\TidsReg\Server\TidsRegV3\TidsRegV3Tests\bin\Debug\nunit.mocks.dll
+D:\TidsReg\Server\TidsRegV3\TidsRegV3Tests\bin\Debug\TidsRegV3.dll
+D:\TidsReg\Server\TidsRegV3\TidsRegV3Tests\bin\Debug\System.Web.Http.dll
+D:\TidsReg\Server\TidsRegV3\TidsRegV3Tests\bin\Debug\Newtonsoft.Json.dll
+D:\TidsReg\Server\TidsRegV3\TidsRegV3Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\TidsReg\Server\TidsRegV3\TidsRegV3Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\TidsReg\Server\TidsRegV3\TidsRegV3Tests\bin\Debug\TidsRegV3.pdb
+D:\TidsReg\Server\TidsRegV3\TidsRegV3Tests\bin\Debug\TidsRegV3.dll.config
+D:\TidsReg\Server\TidsRegV3\TidsRegV3Tests\bin\Debug\NSubstitute.xml
+D:\TidsReg\Server\TidsRegV3\TidsRegV3Tests\bin\Debug\nunit.framework.xml
+D:\TidsReg\Server\TidsRegV3\TidsRegV3Tests\bin\Debug\System.Web.Http.xml
+D:\TidsReg\Server\TidsRegV3\TidsRegV3Tests\bin\Debug\Newtonsoft.Json.xml
+D:\TidsReg\Server\TidsRegV3\TidsRegV3Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\TidsReg\Server\TidsRegV3\TidsRegV3Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\TidsReg\Server\TidsRegV3\TidsRegV3Tests\obj\Debug\TidsRegV3Tests.csprojResolveAssemblyReference.cache
+D:\TidsReg\Server\TidsRegV3\TidsRegV3Tests\obj\Debug\TidsRegV3Tests.csproj.CoreCompileInputs.cache
+D:\TidsReg\Server\TidsRegV3\TidsRegV3Tests\obj\Debug\TidsRegV3Tests.csproj.CopyComplete
+D:\TidsReg\Server\TidsRegV3\TidsRegV3Tests\obj\Debug\TidsRegV3Tests.dll
+D:\TidsReg\Server\TidsRegV3\TidsRegV3Tests\obj\Debug\TidsRegV3Tests.pdb
+D:\TidsReg\Server\TidsRegV3\TidsRegV3Tests\bin\Debug\System.Web.Http.Cors.dll
+D:\TidsReg\Server\TidsRegV3\TidsRegV3Tests\bin\Debug\System.Web.Cors.dll
+D:\TidsReg\Server\TidsRegV3\TidsRegV3Tests\bin\Debug\System.Web.Http.Cors.xml

@@ -1,0 +1,135 @@
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\TidsRegV3.dll.config
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\TidsRegV3.dll
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\TidsRegV3.pdb
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\roslyn\csc.exe
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\roslyn\csc.exe.config
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\roslyn\csc.rsp
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\roslyn\csi.exe
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\roslyn\csi.exe.config
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\roslyn\csi.rsp
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\roslyn\System.AppContext.dll
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\roslyn\System.Console.dll
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\roslyn\System.IO.Compression.dll
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\roslyn\System.IO.Pipes.dll
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\roslyn\System.Security.Claims.dll
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\roslyn\System.Threading.Thread.dll
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\roslyn\System.ValueTuple.dll
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\roslyn\System.Xml.XPath.dll
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\roslyn\vbc.exe
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\roslyn\vbc.exe.config
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\roslyn\vbc.rsp
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\roslyn\VBCSCompiler.exe
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\Newtonsoft.Json.dll
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\System.Net.Http.Formatting.dll
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\System.Web.Http.dll
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\System.Web.Http.WebHost.dll
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\Newtonsoft.Json.xml
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\System.Net.Http.Formatting.xml
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\System.Web.Http.xml
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\bin\System.Web.Http.WebHost.xml
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\obj\Debug\TidsRegV3.csprojResolveAssemblyReference.cache
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\obj\Debug\TidsRegV3.csproj.CoreCompileInputs.cache
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\obj\Debug\TidsRegV3.csproj.CopyComplete
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\obj\Debug\TidsRegV3.dll
+C:\Users\lntinfotech.pawankum\Documents\Visual Studio 2017\Projects\TidsRegV3\TidsRegV3\obj\Debug\TidsRegV3.pdb
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\TidsRegV3.dll.config
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\TidsRegV3.dll
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\TidsRegV3.pdb
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\roslyn\csc.exe
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\roslyn\csc.exe.config
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\roslyn\csc.rsp
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\roslyn\csi.exe
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\roslyn\csi.exe.config
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\roslyn\csi.rsp
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\roslyn\System.AppContext.dll
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\roslyn\System.Collections.Immutable.dll
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\roslyn\System.Console.dll
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\roslyn\System.Diagnostics.Process.dll
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\roslyn\System.IO.Compression.dll
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\roslyn\System.IO.FileSystem.dll
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\roslyn\System.IO.Pipes.dll
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\roslyn\System.Reflection.Metadata.dll
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\roslyn\System.Security.AccessControl.dll
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\roslyn\System.Security.Claims.dll
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\roslyn\System.Security.Principal.Windows.dll
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\roslyn\System.Threading.Thread.dll
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\roslyn\System.ValueTuple.dll
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\roslyn\System.Xml.XmlDocument.dll
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\roslyn\System.Xml.XPath.dll
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\roslyn\vbc.exe
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\roslyn\vbc.exe.config
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\roslyn\vbc.rsp
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\roslyn\VBCSCompiler.exe
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\roslyn\VBCSCompiler.exe.config
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\Newtonsoft.Json.dll
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\System.Net.Http.Formatting.dll
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\System.Web.Http.dll
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\System.Web.Http.WebHost.dll
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\Newtonsoft.Json.xml
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\System.Net.Http.Formatting.xml
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\System.Web.Http.xml
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\System.Web.Http.WebHost.xml
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\obj\Debug\TidsRegV3.csprojResolveAssemblyReference.cache
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\obj\Debug\TidsRegV3.csproj.CoreCompileInputs.cache
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\obj\Debug\TidsRegV3.csproj.CopyComplete
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\obj\Debug\TidsRegV3.dll
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\obj\Debug\TidsRegV3.pdb
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\System.Web.Cors.dll
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\System.Web.Http.Cors.dll
+D:\TidsReg\Server\TidsRegV3\TidsRegV3\bin\System.Web.Http.Cors.xml
