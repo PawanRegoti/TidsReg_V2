@@ -6,8 +6,8 @@ import Header, { Footer } from '../Layout/Layout';
 
 class LoginModule extends Component {
     constructor(props){
-       super(props);
-       this.state = {
+     super(props);
+     this.state = {
         username: '',
         password: '',
         regUsername: '',
@@ -21,20 +21,20 @@ class LoginModule extends Component {
 onRegister(){
     console.log('onRegister'); 
     var httpPostRequest = {  
-  method: 'POST',
-  headers: {
-    'Accept': 'application/json',
-    'Content-Type': 'application/json',
-    'Origin': '',
-  },
-  body: JSON.stringify({
-    'username': this.state.regUsername,
-    'password': this.state.regPassword
-  })}; 
+      method: 'POST',
+      headers: {
+        'Accept': 'application/json',
+        'Content-Type': 'application/json',
+        'Origin': '',
+    },
+    body: JSON.stringify({
+        'username': this.state.regUsername,
+        'password': this.state.regPassword
+    })}; 
 
-  fetch('http://localhost:57227/api/TidsReg/Register',httpPostRequest)
-  .then(response => { if (response.ok){alert('Registration Successful.')}})
-  .catch(err => { alert('Unable to register.'+ err); }) 
+    fetch('http://localhost:57227/api/TidsReg/Register',httpPostRequest)
+    .then(response => { if (response.ok){alert('Registration Successful.')}})
+    .catch(err => { alert('Unable to register.'+ err); }) 
 }
 
 onLogin(){
@@ -52,23 +52,25 @@ onLogin(){
         'Accept': 'Application/json',
         'Content-Type': 'application/json',
         'Origin': ''
-      }
-    })
+    }
+})
     .then(response => 
+    {
+        if (response.ok) 
         {
-            if (response.ok) 
-            {
-                return response.json();
-            }
-        })
-    .then(results => {
-        console.log('login results.', results);
-        this.props.dispatchAction('empNr',this.state.username);
-        this.props.dispatchAction('auth',auth);
-        this.props.dispatchAction('LoggedIn',true);
-        this.props.dispatchAction('projectList', results);
+            return response.json().then(results => {
+                console.log('login results.', results);
+                this.props.dispatchAction('empNr',this.state.username);
+                this.props.dispatchAction('auth',auth);
+                this.props.dispatchAction('LoggedIn',true);
+                this.props.dispatchAction('projectList', results);
+            });
+        }
+        else{
+            alert('login failed');
+        }
     })
-.catch(err => alert('Login failed: '+err))
+    .catch(err => alert('Login failed: '+err))
 }
 
 render() {

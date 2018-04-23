@@ -65,16 +65,18 @@ class ProjectModule extends Component {
 					alert('No time has been logged for given time period.')
 				}
 				else if (response.ok){
-					return response.json()
+					return response.json().then(results => {
+						this.setState({
+							isDataFetched: true,
+							projectData: results
+						});
+						this.CreateChart();
+						console.log(this.state.projectData);
+					})
 				}
-			})
-			.then(results => {
-				this.setState({
-					isDataFetched: true,
-					projectData: results
-				});
-				this.CreateChart();
-				console.log(this.state.projectData);
+				else{
+					alert('Unable to fetch project data');
+				}
 			})
 			.catch(err => { alert('Unable to fetch time log for given project for the given time period.'+ err); }) 
 

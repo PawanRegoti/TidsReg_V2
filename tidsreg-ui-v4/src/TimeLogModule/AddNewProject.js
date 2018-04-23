@@ -30,8 +30,13 @@ class AddNewProject extends Component {
 					this.props.dispatchAction('projectList',newProjectList);
 
 
-					alert('Successful added new Project: '+this.state.newProject)}
+					alert('Successful added new Project: '+this.state.newProject);
+				}
+				else{
+					alert('Unable to connect to server');
+				}
 				})
+
 			.catch(err => { alert('Unable to added new Project:'+ err); }) 
 		}
 

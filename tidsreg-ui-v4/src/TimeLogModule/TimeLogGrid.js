@@ -60,14 +60,16 @@ class TimeLogGrid extends Component {
       fetch('http://localhost:57227/api/TidsReg/FetchTimeLog',httpPostRequest)
       .then(response => { 
         if (response.ok){
-          return response.json()
+          return response.json().then(results => {
+            this.setState({
+              timeLog: results
+            });
+            console.log(this.state.timeLog);
+          })
         }
-      })
-      .then(results => {
-        this.setState({
-          timeLog: results
-        });
-        console.log(this.state.timeLog);
+        else{
+          alert('Unable to connect to server');
+        }
       })
       .catch(err => { alert('Unable to fetch time log.'+ err); }) 
     }
@@ -98,6 +100,9 @@ class TimeLogGrid extends Component {
             console.log('added timelog successfully');
             alert('Time Log saved successfully.');
           }
+          else{
+          alert('Unable to connect to server');
+        }
         })
         .catch(err => { alert('Unable to add time log.'+ err); }) 
       }
